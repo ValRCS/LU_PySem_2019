@@ -4,6 +4,12 @@ Python seminar at Faculty of Computing, University of Latvia  – Fall 2019
 ## Seminar website (wiki)
 http://selavo.lv/pysem
 
+## Register for the seminar
+http://bit.ly/py-df-2019-register
+
+## Join the Slack channel for the seminar
+http://bit.ly/py-df-2019
+
 ## Recommend installing Anaconda on your local computer:
 
 https://www.anaconda.com/download/

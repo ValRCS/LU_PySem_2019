@@ -18,3 +18,7 @@ https://www.anaconda.com/download/
 ### Binder(hosted Jupyter notebooks) Beta
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/LU_PySem_2019/master)
 * Binder allows you to run Jupyter notebooks in the cloud
+
+## Lecture Videos
+
+* https://youtu.be/L3Td-tx1g6k Python Dictionaries, Project Examples 20.09.2019

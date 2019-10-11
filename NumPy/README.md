@@ -13,3 +13,16 @@ It contains among other things:
 * tools for integrating C/C++ and Fortran code
 
 * useful linear algebra, Fourier transform, and random number capabilities
+
+## Learning Resources
+
+### Official
+* https://numpy.org/devdocs/user/quickstart.html
+
+### Cheatsheets, etc
+* https://www.datacamp.com/community/blog/python-numpy-cheat-sheet
+* https://realpython.com/how-to-use-numpy-arange/ -- very thorough explanation of a simple arange method
+* http://cs231n.github.io/python-numpy-tutorial/
+
+
+

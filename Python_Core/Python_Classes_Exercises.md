@@ -4,7 +4,7 @@
 
 Follow the steps:
 
-* Create a class, Triangle. Its __init__() method should take self, angle1, angle2, and angle3 as arguments. Make sure to set these appropriately in the body of the __init__()method.
+* Create a class, Triangle. Its `__init__()` method should take self, angle1, angle2, and angle3 as arguments. Make sure to set these appropriately in the body of the `__init__()` method.
 
 * Create a variable named number_of_sides and set it equal to 3.
 
@@ -23,7 +23,7 @@ Follow the steps:
 
 ## Exercise 2
 
-* Define a class called Songs, it will show the lyrics of a song. Its __init__() method should have two arguments:selfanf lyrics.lyricsis a list. Inside your class create a method called sing_me_a_songthat prints each element of lyricson his own line. Define a varible:
+* Define a class called Songs, it will show the lyrics of a song. Its `__init__()` method should have two arguments:selfanf lyrics.lyricsis a list. Inside your class create a method called sing_me_a_songthat prints each element of lyricson his own line. Define a varible:
 
 * happy_bday = Song(["May god bless you, ",
                    "Have a sunshine on you,",

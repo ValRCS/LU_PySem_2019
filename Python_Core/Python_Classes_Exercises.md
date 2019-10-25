@@ -9,8 +9,12 @@ Follow the steps:
 * Create a variable named number_of_sides and set it equal to 3.
 
 * Create a method named check_angles. The sum of a triangle's three angles is It should return True if the sum of self.angle1, self.angle2, and self.angle3 is equal 180, and False otherwise.
+
+* Create property isRightTriangle which works
 * Create a variable named my_triangle and set it equal to a new instance of your Triangle class. Pass it three angles that sum to 180 (e.g. 90, 30, 60).
 * Print out my_triangle.number_of_sides and print out my_triangle.check_angles().
+*
+
 
 
 ## Exercise 2

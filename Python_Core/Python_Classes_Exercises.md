@@ -35,9 +35,12 @@ Follow the steps:
 
 * Define a class called Lunch.
 
-* Its `__init__()` method should have two arguments:selfanf menu.Where menu is a string. Add a method called menu_price.It will involve a ifstatement:
+* Its `__init__()` method should have two arguments:self and menu. Where menu is a string. 
 
-if "menu 1" print "Your choice:", menu, "Price 12.00", if "menu 2" print "Your choice:", menu, "Price 13.40", else print "Error in menu".
+* Add a method called menu_price.It will involve a if statement:
+  1. if "menu 1" print "Your choice:", menu, "Price 12.00",
+  2. if "menu 2" print "Your choice:", menu, "Price 13.40", 
+  3. else print "Error in menu".
 
 * To check if it works define: Paul=Lunch("menu 1") and call Paul.menu_price().
 

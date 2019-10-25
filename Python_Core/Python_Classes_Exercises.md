@@ -25,16 +25,17 @@ Follow the steps:
 
 * Define a class called Songs, it will show the lyrics of a song. Its `__init__()` method should have two arguments:selfanf lyrics.lyricsis a list. Inside your class create a method called sing_me_a_songthat prints each element of lyricson his own line. Define a varible:
 
-* happy_bday = Song(["May god bless you, ",
+* happy_bday = `Song(["May god bless you, ",
                    "Have a sunshine on you,",
-                   "Happy Birthday to you !"])
+                   "Happy Birthday to you !",
+                   "LU Python Seminar is fun!])`
 * Call the sing_me_songmehod on this variable.
 
 ## Exercise 3
 
 * Define a class called Lunch.
 
-* Its __init__() method should have two arguments:selfanf menu.Where menu is a string. Add a method called menu_price.It will involve a ifstatement:
+* Its `__init__()` method should have two arguments:selfanf menu.Where menu is a string. Add a method called menu_price.It will involve a ifstatement:
 
 if "menu 1" print "Your choice:", menu, "Price 12.00", if "menu 2" print "Your choice:", menu, "Price 13.40", else print "Error in menu".
 
@@ -44,7 +45,7 @@ if "menu 1" print "Your choice:", menu, "Price 12.00", if "menu 2" print "Your c
 
 * Define a Point3D class that inherits from object Inside the Point3D class, 
 
-* define an __init__() function that accepts self, x, y, and z, and assigns these numbers to the member variables self.x,self.y,self.z. * Define a __repr__() method that returns "(%d, %d, %d)" % (self.x, self.y, self.z). This tells Python to represent this object in the following format: (x, y, z). 
+* define an `__init__()` function that accepts self, x, y, and z, and assigns these numbers to the member variables self.x,self.y,self.z. * Define a `__repr__()` method that returns "(%d, %d, %d)" % (self.x, self.y, self.z). This tells Python to represent this object in the following format: (x, y, z). 
 
 * Outside the class definition, create a variable named my_point containing a new instance of Point3D with x=1, y=2, and z=3.
 

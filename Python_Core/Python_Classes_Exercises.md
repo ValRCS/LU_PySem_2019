@@ -16,6 +16,9 @@ Follow the steps:
 * Print out my_triangle.number_of_sides and print out my_triangle.check_angles().
 * Print out my_triangle.isRightTriangle()
 
+* create second_triangle which also is instance of Class but has the following angles (30, 75, 95)
+* print out second_triangle.check_angles() and second_triangle.isRightTriangle()
+
 
 
 ## Exercise 2

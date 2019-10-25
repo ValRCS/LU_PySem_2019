@@ -28,7 +28,7 @@ Follow the steps:
 * happy_bday = `Song(["May god bless you, ",
                    "Have a sunshine on you,",
                    "Happy Birthday to you !",
-                   "LU Python Seminar is fun!])`
+                   "LU Python Seminar is fun!")`
 * Call the sing_me_songmehod on this variable.
 
 ## Exercise 3

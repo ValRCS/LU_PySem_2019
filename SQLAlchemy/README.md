@@ -17,6 +17,7 @@ https://www.sqlalchemy.org/
 ### Books
 
 Essential SQLAlchemy: Mapping Python to Databases: 2nd Edition
+
 https://www.amazon.com/Essential-SQLAlchemy-Mapping-Python-Databases/dp/149191646X
 
 Official documentation will be more up to date

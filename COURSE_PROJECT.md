@@ -2,7 +2,7 @@
 
  During the course, students are required to complete a project that accomplishes a non-trivial programming / data processing task using Python tools. 
 
-##Possible project topics: 
+## Possible project topics: 
 
 * Process, analyze, and/or visualize a dataset. 
 * Small game
@@ -30,7 +30,7 @@ On 15.11.2019 students should present project description in class.
 
 ## Final Project Presentation
 
-Project presentation 08.01.2020 @ 10:00 (auditorium 312)
+Project presentation 08.01.2020 @ 10:00 (auditorium TBD)
 
  Project presentation = 5-10 min. presentation consisting of:
 

@@ -57,4 +57,4 @@ https://github.com/savankoradiya/Google-Colab-Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/LU_PySem_2019) - open all of current repo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/LU_PySem_2019/blob/master/Tensorflow/keras_image_recognition_classifier_08_2019.ipynb) - Image Recognition Classifier
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/LU_PySem_2019/blob/master/Tensorflow/keras_image_recognition_classifier_10_2019.ipynb) - Image Recognition Classifier

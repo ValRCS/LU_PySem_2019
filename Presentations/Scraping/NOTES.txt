@@ -1,0 +1,6 @@
+scrapy shell "https://www.ss.com/lv/transport/cars/audi/"
+
+scrapy crawl sscom -o sscom.json
+
+scrapy crawl --nolog sscom -o - -t json
+
